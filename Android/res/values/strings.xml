@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlueMatrix</string>
+    <string name="battery_status">Battery status:</string>
+    <string name="battery_icon">Battery icon</string>
+    <string name="toggle_display">Toggle display on/off</string>
+    <string name="text_displayed">Text displayed:</string>
+    <string name="send_button">Send button</string>
+    <string name="choose_device">Choose device:</string>
+
+</resources>
